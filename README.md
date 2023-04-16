@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
-🔭 I’m currently working on an FFXI Organizer application with Java and Spring Boot.
-🌱 I’ve just completed Promineo Tech's Back-End Development Boot Camp, and now I'm trying to practice my skills.
-I'm finishing up a couple of old courses I signed up for and never finished because I didn't have enough background knowledge.
-🤔 I’m looking for direction.
+I liked back end boot camp so much that I have just recently begun the Promineo Tech Front End Developer boot camp.
+🔭 Current side projects: a portfolio-style website using JS, CSS, and HTML, and an FFXI gear organizer application with Java and Spring Boot.
+🌱 I completed Promineo Tech's Back-End Development Boot Camp in January, and did a few short certificate classes online to prepare for the front end.
+🤔 I’m looking for direction and maybe a sign.
 💬 Ask me about my banana flute.
 ⚡ Fun fact: My bachelor's degree is in trumpet performance.
 
